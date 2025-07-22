@@ -17,6 +17,9 @@
 
 -  [Nigeria’s Healthcare Crisis: Million's Can't Afford To See A Doctor (Video)](https://www.youtube.com/watch?v=xeSw08lZO_o)
 -  [Nigeria’s Healthcare Crisis: Million's Can't Afford To See A Doctor.pdf](https://drive.google.com/file/d/1ZEggIUnW-26npzjU96YBchwKZBoUW1X3/view?usp=sharing)
+
+  <h2> 🤳 Data Science Projects:</h2>
+
 -  [KolkataIndiaChapter_AutomatedPotholeDetection](https://github.com/Rayo-Johnson/omdenaKolkataIndiaChapter_AutomatedPotholeDetection/blob/main/README.md)
 
 <h2> 🤳 Certifications:</h2>
